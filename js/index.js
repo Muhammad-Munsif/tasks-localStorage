@@ -1,3 +1,3 @@
 alert();
 console.log(object);
-console.log('Hello, World!');
+console.log("Hello, World!");
